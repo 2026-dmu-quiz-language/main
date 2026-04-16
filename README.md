@@ -13,7 +13,14 @@
 
 ---
 
-## 📱 프로토타입(시연) 이미지
+## 💡 기획 및 프로토타입
+앱의 전반적인 설계 방향과 핵심 기능 요약입니다. 짧은 학습 단위와 직관적인 탐색 흐름을 중심으로 설계하였습니다.
+
+<p align="center">
+  <img src="./image/prototype_overview.png" width="90%" />
+</p>
+
+### 📱 상세 화면
 <table align="center">
   <tr align="center">
     <td><b>초기 화면</b></td>
@@ -35,12 +42,28 @@
 
 ---
 
+## 🔄 서비스 흐름도 (User Flow)
+사용자가 앱을 실행하고 학습을 완료하기까지의 전체적인 서비스 흐름입니다.
+
+<p align="center">
+  <img src="./image/service_flow.png" width="100%" />
+</p>
+
+---
+
 ## 🛠 기술 스택
 * **Frontend:** React Native
 * **Backend:** Java, Spring Boot
 * **Database:** MySQL
 * **Infra:** Docker, On-Premise Server
 * **Collaboration:** GitHub, Figma
+
+## 🏗 시스템 아키텍처
+클라이언트 요청부터 데이터베이스 처리, 인프라 배포까지의 전체 시스템 구성도입니다.
+
+<p align="center">
+  <img src="./image/architecture.png" width="100%" />
+</p>
 
 ---
 
