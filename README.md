@@ -17,7 +17,7 @@
 앱의 전반적인 설계 방향과 핵심 기능 요약입니다. 짧은 학습 단위와 직관적인 탐색 흐름을 중심으로 설계하였습니다.
 
 <p align="center">
-  <img src="./image/prototype_overview.png" width="90%" />
+  <img src="./image/prototype.png" width="90%" />
 </p>
 
 ### 📱 상세 화면
@@ -46,7 +46,7 @@
 사용자가 앱을 실행하고 학습을 완료하기까지의 전체적인 서비스 흐름입니다.
 
 <p align="center">
-  <img src="./image/service_flow.png" width="100%" />
+  <img src="./image/serviceflow.png" width="100%" />
 </p>
 
 ---
