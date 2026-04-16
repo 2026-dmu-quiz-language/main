@@ -14,7 +14,6 @@
 ---
 
 ## 📱 프로토타입(시연) 이미지
-## 📱 프로토타입(시연) 이미지
 <table align="center">
   <tr align="center">
     <td><b>초기 화면</b></td>
