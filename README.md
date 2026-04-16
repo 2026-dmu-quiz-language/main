@@ -1,4 +1,4 @@
-# 🐶 큐링 (Q-Language)
+# 🍃 큐링 (Q-Language)
 **스토리 콘텐츠 기반 인터랙티브 언어학습 앱 서비스**
 
 ## 📖 개요
@@ -14,10 +14,25 @@
 ---
 
 ## 📱 프로토타입(시연) 이미지
-![초기 화면](./image/Splash.png)
-![로그인 화면](./image/login.png)
-![대시보드 화면](./image/dashboard.png)
-![학습 및 퀴즈 화면](./image/quiz.png)
+## 📱 프로토타입(시연) 이미지
+<table align="center">
+  <tr align="center">
+    <td><b>초기 화면</b></td>
+    <td><b>로그인 화면</b></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./image/Splash.png" width="200" /></td>
+    <td><img src="./image/login.png" width="200" /></td>
+  </tr>
+  <tr align="center">
+    <td><b>대시보드 화면</b></td>
+    <td><b>학습 및 퀴즈 화면</b></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./image/dashboard.png" width="200" /></td>
+    <td><img src="./image/quiz.png" width="200" /></td>
+  </tr>
+</table>
 
 ---
 
