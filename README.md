@@ -115,7 +115,16 @@
 ---
 
 ## 🎬 시연 영상
-<img src="./video/preview.gif" width="100%" />
+<table align="center">
+  <tr align="center">
+    <td><b>큐링 앱 시연 화면</b></td>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="./video/preview.gif" width="250" alt="시연 영상 GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
