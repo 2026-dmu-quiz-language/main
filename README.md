@@ -115,7 +115,7 @@
 ---
 
 ## 🎬 시연 영상
-![](./video/preview.mp4)
+<img src="./video/preview.gif" width="100%" />
 
 ---
 
